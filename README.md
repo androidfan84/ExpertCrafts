@@ -2,7 +2,7 @@
  
 Originally made by [nt153133](https://github.com/nt153133)
 
-Updated by my for EW.
+Updated by my for EW. Requires LlamaLibrary and Lisbeth.
 
 Detailed instructions to come. Don't bother with the Botbase settings UI, it doesn't really work.
 
